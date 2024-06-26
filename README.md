@@ -2,7 +2,7 @@
 
 ## Terminal Commands
 
-Here are the terminal commands in order of appearance of the video.
+Here are the terminal commands in order 
 
 `npm install -g @aws-amplify/cli`
 
